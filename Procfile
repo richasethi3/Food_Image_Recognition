@@ -1,1 +1,0 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True Food_Image_Recognition_FastAI_Model.ipynb
